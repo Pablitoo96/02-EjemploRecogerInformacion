@@ -34,6 +34,6 @@ public class Usuarios {
 
     @Override
     public String toString() {
-        return "Usuarios : " + "email='" + email + '\n' + ", password='" + password ;
+        return "Usuarios : " + "email='" + email + '\'' + ", password='" + password ;
     }
 }
